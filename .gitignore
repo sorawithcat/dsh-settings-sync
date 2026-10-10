@@ -1,0 +1,4 @@
+node_modules/
+*.bak-settings-sync-*
+*.tmp
+.DS_Store
